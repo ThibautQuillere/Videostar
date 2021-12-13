@@ -1,0 +1,172 @@
+<!--
+  Conseils :
+  - Renommez ce fichier Ã  chaque nouvelle version. Pas d'accent, pas d'espace.
+  - Utilisez les aides Ã  la saisie (Emmet), autant que possible.
+  - N'oubliez pas les mÃ©ta-donnÃ©es.
+  - Pensez Ã  redimensionner les images, si besoin.
+  - Pour commencer le CSS, il est possible d'utiliser un "reset CSS" ou une "base CSS".
+    - Reset d'E. Meyer : https://meyerweb.com/eric/tools/css/reset/
+    - Base CSS d'AlsacrÃ©ations : https://www.alsacreations.com/astuce/lire/654-feuille-de-styles-de-base.html
+    - Autre possibilitÃ© : https://github.com/necolas/normalize.css
+  - Si Ã§a n'est pas dÃ©jÃ  dans cette base, ajoutez la rÃ¨gle Â« img { max-width: 100%; } Â»,
+    pour Ã©viter que de trop grandes images "cassent" la mise en page.
+  - N'hÃ©sitez pas Ã  mettre des couleurs trÃ¨s voyantes pendant la prÃ©paration de la
+    mise en page.
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Vidéostar</title>
+        <link href="assets/feuille-style.css" rel="stylesheet">
+    </head>
+    <body>
+        <header  id="Accueil">
+                <h1 class="logo">
+                    <img src="assets/logo-videostar.svg" alt="Videostar">
+                </h1>
+                <nav>
+                    <ul>
+                        <li>
+                            <a href="#Accueil">Accueil</a>
+                        </li>
+                        <li>
+                            <a href="#">Agence</a>
+                        </li>
+                        <li>
+                            <a href="#">Réalisations</a>
+                        </li>
+                        <li>
+                            <a href="#">Nous contacter</a>
+                        </li>
+                        <li class="langue">
+                            <img src="assets/flag-en.png" alt="english site">
+                        </li>
+                    </ul>
+                </nav>
+        </header>
+        <aside>
+                <h2 class="baseline">
+                    <span>Allumez</span><br> les <span>projecteurs</span>
+                </h2>
+        </aside>
+        <main>
+            <div class="wrapper">
+                <section class="news">
+                    <h2>
+                        Dernières <span>réalisations</span>
+                    </h2>
+                    <div class="point"></div>
+                    <article>
+                        <h3>
+                            Thalassa
+                        </h3>
+                        <img src="assets/photos/sunset-312x208.jpg" alt="soleil">
+                        <p class="categorie">
+                            Films entreprise
+                        </p>
+                        <p class="text">
+                            De La Rochelle à Royan, la Charente-Maritime et ses habitants font vivre un patrimoine naturel et historique d'exception.
+                        </p>
+                    </article>
+                    <article>
+                        <h3>
+                            Making-of des Chtis à Malibu
+                        </h3>
+                        <img src="assets/photos/sunny-beach-312x208.jpg" alt="plage et soleil">
+                        <p class="categorie">
+                           Web-séries
+                        </p>
+                        <p class="text">
+                            3 ans déjà que leurs milliers de fans attendent ce grand moment. Les 2 familles emblématiques ont parcouru le monde...
+                        </p>
+                    </article>
+                    <article>
+                        <h3>
+                            Expédition dans le grand nord
+                        </h3>
+                        <img src="assets/photos/samba-parade-312x208.jpg" alt="samba parade">
+                        <p  class="categorie"> 
+                           Documentaires
+                        </p>
+                        <p class="text">
+                            Au cours de ce documentaire sur le grand nord, notre équipe a suivi Jean Michel Traineau et ses chiens dans son expédition... 
+                        </p>
+                    </article>
+                </section>
+                <section class="actu">
+                    <h2>
+                        Dernières <span>actualités</span>
+                    </h2>
+                    <div class="point"></div>
+                    <article>
+                        <h3>
+                            L’équipe Videostar qui monte les marches du festival de Came (64), moment émouvant.
+                        </h3>
+                        <img src="assets/photos/partying-312x208.jpg" alt="fete">
+                        <p class="publi">
+                            21/09/2021 à 16h45
+                        </p>
+                    </article>
+                    <article class="no-image">
+                        <h3>
+                            Super ! On a décroché un nouveau client trop bien, c’est un producteur de vin ! #videostarBusiness
+                        </h3>
+                        <p class="publi">
+                            15/09/2021 à 16h45
+                        </p>
+                    </article>
+                    <article>
+                        <h3>
+                            En exclu le making of du prochain épisode de Thalassa #teasing
+                        </h3>
+                        <img src="assets/photos/model-during-photoshoot-312x208.jpg" alt="model photo">
+                        <p class="publi">
+                            10/09/2021 à 16h45
+                        </p>
+                    </article>
+                </section >
+                <section class="partenariats">
+                    <h2>
+                        Ils nous font <span>confiance</span>
+                    </h2>
+                    <div class="point"></div>
+                    <div>
+                        <img src="assets/logos/logo-bnp-paribas.png" alt="bnp paribas">
+                        <img src="assets/logos/logo-france3.png" alt="France 3">
+                        <img src="assets/logos/logo-mcdo.png" alt="Mcdo">
+                        <img src="assets/logos/logo-rtl.png" alt="rtl">
+                        <img src="assets/logos/logo-vinci.png" alt="Vinci">
+                    </div>
+                </section>
+            </div>
+        </main>
+        <footer>
+            <p>
+                <img src="assets/logo-videostar-white.svg" alt="Videostar">
+            </p>
+            <p>
+                Agence de <span>production vidéo</span> basée à <span>Paris</span>, spécialisée <br> dans la <span>création de contenus originaux</span>
+            </p>
+            <p>
+                <img src="assets/icons/icon-linkedin.svg" alt="linkedin" class="social">
+                <img src="assets/icons/icon-twitter.svg" alt="twitter" class="social">
+                <img src="assets/icons/icon-vimeo.svg" alt="vimeo" class="social">
+                <img src="assets/icons/icon-instagram.svg" alt="instagram" class="social">
+                <img src="assets/icons/icon-linkedin.svg" alt="youtube" class="social">
+            </p>
+            <p>
+                <a href="#"> Mentions légales </a>
+                •
+                <a href="#"> CGV </a>
+                •
+                <a href="#"> FAQ </a> 
+                •
+                <a href="#"> Contact </a>
+                •
+                <a href="#"> 2021 © Vidéostar </a>
+            </p>
+        </footer>
+    </body>
+</html>

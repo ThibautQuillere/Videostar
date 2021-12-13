@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="87" height="91" viewBox="0 0 87 91">
+  <defs>
+    <filter id="Ellipse_1" x="0" y="0" width="87" height="91" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect width="50" height="50" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Tracé_2" data-name="Tracé 2" d="M0-248.427H50v50H0Z" transform="translate(0 248.427)" fill="#c74b51"/>
+    </clipPath>
+  </defs>
+  <g id="Logo" transform="translate(18 17.159)">
+    <g transform="matrix(1, 0, 0, 1, -18, -17.16)" filter="url(#Ellipse_1)">
+      <circle id="Ellipse_1-2" data-name="Ellipse 1" cx="37.5" cy="37.5" r="37.5" transform="translate(6)" fill="#fff"/>
+    </g>
+    <g id="Logo-2" data-name="Logo" clip-path="url(#clip-path)">
+      <g id="Groupe_2" data-name="Groupe 2" clip-path="url(#clip-path-2)">
+        <g id="Groupe_1" data-name="Groupe 1" transform="translate(0 0)">
+          <path id="Tracé_1" data-name="Tracé 1" d="M-75.246-162.5a4.254,4.254,0,0,1-4.336-4.38c0-2.124,1.195-5.442,2.743-8.715,1.637-3.407,3.628-6.99,4.734-9.822a6.073,6.073,0,0,0,.4-1.947,1.9,1.9,0,0,0-1.991-2.124c-1.283,0-3.1.885-4.734,2.92a9.859,9.859,0,0,0-2.478,5.973c0,1.548.664,2.521,1.46,2.521.221,0,.487-.088.664-.088.4,0,.531.177.531.442,0,.708-1.239,1.947-2.787,1.947a3.687,3.687,0,0,1-3.5-3.893c0-4.424,6.725-11.68,12.166-11.68,3.274,0,4.336,1.593,4.336,3.495a7.052,7.052,0,0,1-.487,2.478c-2.566,6.857-7.433,14.334-7.433,18.227,0,1.681.841,2.433,2.124,2.433,3.628,0,11.5-12.343,12.52-20.838a5.056,5.056,0,0,1,.8-3.274c.619-.8,2.433-2.522,3.539-2.522.575,0,.973.442.973,1.681,0,7.167-10.662,27.164-19.245,27.164m6.039-40.946a25,25,0,0,0-25,25,25,25,0,0,0,25,25,25,25,0,0,0,25-25,25,25,0,0,0-25-25" transform="translate(94.207 203.441)" fill="#c74b51"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="23.526" height="19.189" viewBox="0 0 23.526 19.189">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Tracé_8" data-name="Tracé 8" d="M0-25.755H23.526V-6.566H0Z" transform="translate(0 25.755)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Icone_twitter" data-name="Icone twitter" transform="translate(0 0)">
+    <g id="Groupe_7" data-name="Groupe 7" transform="translate(0 0)" clip-path="url(#clip-path)">
+      <g id="Groupe_6" data-name="Groupe 6" transform="translate(0 0)">
+        <path id="Tracé_7" data-name="Tracé 7" d="M-8.05-.777a9.6,9.6,0,0,1-2.772.763A4.849,4.849,0,0,0-8.7-2.7a9.609,9.609,0,0,1-3.064,1.176,4.817,4.817,0,0,0-3.523-1.53A4.836,4.836,0,0,0-20.115,1.8a4.918,4.918,0,0,0,.124,1.1,13.694,13.694,0,0,1-9.948-5.061A4.818,4.818,0,0,0-30.593.272a4.847,4.847,0,0,0,2.148,4.033A4.794,4.794,0,0,1-30.631,3.7c0,.02,0,.04,0,.061a4.843,4.843,0,0,0,3.873,4.75,4.814,4.814,0,0,1-1.272.169,4.789,4.789,0,0,1-.908-.086,4.832,4.832,0,0,0,4.508,3.364,9.665,9.665,0,0,1-6,2.074,9.783,9.783,0,0,1-1.15-.068,13.617,13.617,0,0,0,7.4,2.176A13.664,13.664,0,0,0-10.445,2.357c0-.21,0-.419-.014-.627A9.807,9.807,0,0,0-8.05-.777" transform="translate(31.576 3.049)" fill="#333"/>
+      </g>
+    </g>
+  </g>
+</svg>

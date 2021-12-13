@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21.921" height="19.126" viewBox="0 0 21.921 19.126">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Tracé_10" data-name="Tracé 10" d="M0-25.692H21.921V-6.566H0Z" transform="translate(0 25.692)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Icone_vimeo" data-name="Icone vimeo" transform="translate(0 0)">
+    <g id="Groupe_10" data-name="Groupe 10" transform="translate(0 0)" clip-path="url(#clip-path)">
+      <g id="Groupe_9" data-name="Groupe 9" transform="translate(0 0)">
+        <path id="Tracé_9" data-name="Tracé 9" d="M0-1.787.891-.621s1.836-1.447,2.448-.724S6.287,8.115,7.068,9.726c.682,1.415,2.559,3.284,4.618,1.948S20.586,4.5,21.812-2.4s-8.237-5.454-9.237.556c2.5-1.5,3.84.61,2.559,3s-2.448,3.951-3.059,3.951-1.082-1.6-1.781-4.4c-.724-2.891-.718-8.1-3.728-7.51C3.73-6.241,0-1.787,0-1.787" transform="translate(0 6.993)" fill="#333"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,41 @@
+header{
+    background-color: aqua;
+}
+main{
+    background-color: blue;
+}
+footer{
+    background-color: chartreuse;
+}
+
+aside{
+    background-color: chocolate;
+}
+
+section{
+    background-color: cornflowerblue;
+}
+
+p{
+    background-color: crimson;
+}
+
+h1,h2,h3{
+    background-color: darkkhaki;
+}
+
+ul{
+    background-color: darkorange;
+}
+
+li{
+    background-color: darkmagenta;
+}
+
+img{
+    background-color: deeppink;
+}
+
+article{
+    background-color: forestgreen;
+}
